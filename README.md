@@ -1,0 +1,2 @@
+# ng-scope
+angular scope
